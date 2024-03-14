@@ -6,21 +6,25 @@ function App() {
   
 
   return (
-<>
+
+
+
+
+  <div className="contenedor">
+    <div className="contenedor2">
+      <Header/>
+    </div>
+    
+
+
+</div>
 
 
 
 
 
-<Header/>
-<Contenido/>
-<Div/>
-<Nav/>
 
 
-
-
-</>
     
 
 
@@ -28,12 +32,7 @@ function App() {
     
 
 
-
-    
-
-
-    
-  )
+  );
 }
 
 export default App;

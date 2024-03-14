@@ -7,7 +7,7 @@ function Div (){
        
         
         </>
-    )
+    );
 }
 
-export default Div
+export default Div;

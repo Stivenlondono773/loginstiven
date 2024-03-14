@@ -14,7 +14,7 @@ function Contenido (){
 
         </section>
         
-    )
+    );
 }
 
-export default Contenido
+export default Contenido;
