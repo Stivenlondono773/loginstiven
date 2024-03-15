@@ -3,7 +3,8 @@ function Header (){
     return(
 
         <>
-        <h1>facebook</h1>
+       <h1>hola mundo</h1>
+       <h2>hola casa</h2>
         
         
         
